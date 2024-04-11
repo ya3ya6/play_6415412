@@ -1,0 +1,40 @@
+.JobCard {
+    display: flex;
+    max-height: 150px;
+    margin: auto;
+    color: inherit;
+    border-radius: 0;
+    border: none;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    width:80rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    
+    background-color: white;
+}
+
+.card-body{
+    
+    padding: 1rem;
+    
+}
+.JobCard:hover{
+    text-decoration: none;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.apply-btn{
+
+    font-weight:bold ;
+    float: right;
+    color: white;
+    height: 50px;
+    
+    
+}
+
+
+.btn-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

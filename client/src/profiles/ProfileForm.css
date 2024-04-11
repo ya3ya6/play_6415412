@@ -1,0 +1,19 @@
+.profile-form{
+    /* border: 2px solid black; */
+    display:flex;
+    justify-content: center;
+    margin-top:4rem;
+    
+}
+.form-profile{
+    width:600px;
+    /* border: 2px solid blue; */
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: whitesmoke;
+    padding: 1rem;
+}
+.profile-form button{
+    background-color: green;
+}

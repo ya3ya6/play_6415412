@@ -1,0 +1,10 @@
+.CompanyList{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.CompanyList-list{
+    height:700px;
+    overflow: scroll;
+}

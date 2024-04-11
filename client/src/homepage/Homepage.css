@@ -1,0 +1,35 @@
+.homepage {
+    display: flex;
+    margin-top: 20rem;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+    font-size: 30px;
+    flex-direction: column;
+    color: rgb(55, 53, 53);
+
+    /* border: 2px solid red; */
+}
+.homepage h1{
+    display:flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    width:12rem;
+    /* border: 2px solid black; */
+   
+ 
+    
+}
+.btn-primary{
+    border: 3px solid yellow;
+    font-size: x-large;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+
+}

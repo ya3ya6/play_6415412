@@ -1,0 +1,11 @@
+.CompanyDetail{
+    padding:5rem;
+    /* border: 2px solid blue; */
+}
+.CompanyDetail-top{
+    /* border: 2px solid red; */
+    width:80rem;
+    margin-left: 15rem;
+    margin-bottom: 1rem;
+    font-size: larger;
+}
